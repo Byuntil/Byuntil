@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Byuntil&fontSize=90)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByuntil%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/github/followers/Byuntil"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=Byuntil&fontSize=90)
+
+
 
 ## :wave: Hello! My name is SungJae, I am a Computer Engineering student.
 
  I have been studying web developemnt:computer: since Jan 2021.
   
   I'm interested in JS, Python, C# ..
+  
+ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
