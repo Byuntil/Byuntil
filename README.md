@@ -24,5 +24,5 @@
 |  ... | ...  | ...  | ...  |
 
 # Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flet-square&logo=Gmail&logoColor=white&link=mailto:gugugu2014@jbnu.ac.kr)](mailto:gugugu2014@jbnu.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flet-square&logo=Gmail&logoColor=white&link=mailto:byuntil14@google.com)](mailto:byuntil@google.com)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-523FCF?style=flet-square&logo=Instagram&link=https://www.instagram.com/by_until/)](https://www.instagram.com/by_until/)
