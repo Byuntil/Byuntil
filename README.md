@@ -3,8 +3,9 @@
 
 
 
-## :wave: Hello! My name is SungJae, I am a Computer Engineering student.
-
+# :wave: Hello!
+ 
+ My major is Computer Engineering.
  I have been studying web developemnt:computer: since Jan 2021.
   
   I'm interested in JS, Python, C# ..
@@ -12,9 +13,9 @@
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byuntil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## :zap:Career
+# :zap:Career
 
 |Type|Date|Contents|Organization|
 |---|---|---|---|
@@ -22,5 +23,5 @@
 |  None | None  | None  | None  |
 |  ... | ...  | ...  | ...  |
 
-## Contact
+# Contact
 👉🏻 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flet-square&logo=Gmail&logoColor=white&link=mailto:gugugu2014@jbnu.ac.kr)](mailto:gugugu2014@jbnu.ac.kr)
