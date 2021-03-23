@@ -7,7 +7,7 @@
   I'm interested in JS, Python, C# ..
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byuntil)](https://github.com/Byuntil/github-readme-stats)
 
 ## :zap:Career
 
