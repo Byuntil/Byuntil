@@ -20,8 +20,17 @@
 |Type|Date|Contents|Organization|
 |---|---|---|---|
 |  :heart_eyes_cat:Education  | 2020.03 ~  | Department of Computer Engineering  |  Jeonbuk National University |
-|  First Team Project | 2020.03.30 ~  |  Website(Web develop)  | LCTP  |
+|  None | None  |  None  | None  |
 |  ... | ...  | ...  | ...  |
+
+
+# :tada:Projects
+
+|Contents|Date|Organization|Progress|
+|---|---|---|---|
+|Web Site(Guide)|2021.03.29 ~ |LCTP|1%|
+| C# + WPF Project|2021.03.30 ~ |Department of Computer Engineering, Jeonbuk National University||0%|
+|...|...|...|...|
 
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flet-square&logo=Gmail&logoColor=white&link=mailto:byuntil14@gmail.com)](mailto:byuntil@gmail.com)
