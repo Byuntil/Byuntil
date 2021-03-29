@@ -20,7 +20,7 @@
 |Type|Date|Contents|Organization|
 |---|---|---|---|
 |  :heart_eyes_cat:Education  | 2020.03 ~  | Department of Computer Engineering  |  Jeonbuk National University |
-|  None | None  | None  | None  |
+|  First Team Project | 2020.03.30 ~  |  Website(Web develop)  | LCTP  |
 |  ... | ...  | ...  | ...  |
 
 # Contact
