@@ -29,7 +29,7 @@
 |Contents|Date|Organization|Progress|
 |---|---|---|---|
 |Web Site(Guide)|2021.03.29 ~ |LCTP|1%|
-| C# + WPF Project|2021.03.30 ~ |Department of Computer Engineering, Jeonbuk National University|10%|
+| C# + WPF Project|2021.03.30 ~ |Department of Computer Engineering, Jeonbuk National University|100%|
 |...|...|...|...|
 
 # Contact
