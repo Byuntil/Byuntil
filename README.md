@@ -29,7 +29,6 @@
 |Contents|Date|Organization|Progress|
 |---|---|---|---|
 | C# + WPF Project|2021.03.30 ~ 2021.05.14 |Department of Computer Engineering, Jeonbuk National University|100%|
-| AI project(Deep Learning)|2021.07.14~|Department of Computer Engineering, Jeonbuk National University|Chapter 2|
 |...|...|...|...|
 
 # Contact
