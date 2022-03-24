@@ -29,7 +29,7 @@
 |Contents|Date|Organization|Progress|
 |---|---|---|---|
 | C# + WPF Project|2021.03.30 ~ 2021.05.14 |Department of Computer Engineering, Jeonbuk National University|100%|
-| SW개발병 준비|2021.12 ~ ||10%|
+| AI연구소 홈페이지 개발 |2022.03 ~ ||5%|
 |...|...|...|...|
 
 # Contact
