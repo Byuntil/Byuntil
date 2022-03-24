@@ -37,4 +37,4 @@
 [![Instagram Badge](http://img.shields.io/badge/Instagram-523FCF?style=flet-square&logo=Instagram&link=https://www.instagram.com/by_until/)](https://www.instagram.com/by_until/)
 
 # :smile:Blog
-https://byuntil.github.io/
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://byuntil.github.io/)
