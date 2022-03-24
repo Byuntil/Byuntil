@@ -8,7 +8,7 @@
  My major is Computer Engineering.
  I have been studying web developemnt:computer: since Jan 2021.
   
-  I'm interested in JS, Python, C#, Java ..
+  I'm interested in Java, spring boot, JPA, JS, C#, React..
   
  
 
