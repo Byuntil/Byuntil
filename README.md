@@ -19,7 +19,7 @@
 
 |Type|Date|Contents|Organization|
 |---|---|---|---|
-|  :heart_eyes_cat:Education  | 2020.03 ~  | Department of Computer Engineering  |  Jeonbuk National University |
+|  :heart_eyes_cat:Education  | 2020.03 ~  | Department of Computer Engineering  |  JBNU |
 |  None | None  |  None  | None  |
 |  ... | ...  | ...  | ...  |
 
@@ -28,8 +28,8 @@
 
 |Contents|Date|Organization|Progress|
 |---|---|---|---|
-| C# + WPF Project|2021.03.30 ~ 2021.05.14 |Department of Computer Engineering, Jeonbuk National University|100%|
-| AI연구소 홈페이지 백엔드 개발  |2022.03 ~ ||30%|
+| C# + WPF Project|2021.03.30 ~ 2021.05.14 |Department of Computer Engineering, JBNU |100%|
+| AI연구소 홈페이지 백엔드 개발  |2022.03 ~ ||60%|
 |...|...|...|...|
 
 # Contact
